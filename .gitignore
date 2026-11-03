@@ -1,0 +1,6 @@
+output/*
+!output/.gitkeep
+.DS_Store
+.Rhistory
+__pycache__/
+*.pyc
